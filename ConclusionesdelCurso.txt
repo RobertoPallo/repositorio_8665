@@ -1,0 +1,8 @@
+Tema:Herramienta GitHub
+Conclusiones:
+-Es una herramienta que sirve para controlar versiones de software.
+-Es un repositorio digital orientado en la nube.
+-Nos permite gestionar nuestros cambios en el codigo fuente, saber que se modifico y cuando.
+-Podemos modificar y actulizar en tiempo real, es decir lo que realizamos en nuestro ordenador
+ mediante comandos sencillos podemos actualizar en la nube.
+-Es una herramienta gratuita y de libre acceso.
